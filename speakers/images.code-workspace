@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../images"
+		},
+		{
+			"path": "../js"
+		},
+		{
+			"path": "../media"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../styles"
+		},
+		{
+			"path": "../templates"
+		},
+		{
+			"path": "../text"
+		}
+	]
+}
